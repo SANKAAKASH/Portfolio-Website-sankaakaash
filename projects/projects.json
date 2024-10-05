@@ -1,0 +1,104 @@
+[
+
+ 
+  {
+    "name": "NewsBox Android",
+    "desc": "Native android app built using Java, XML. Retrofit & Glide dependencies. Provides different category news.",
+    "image": "newsboxandroid",
+    "category": "android",
+    "links": {
+    "view": "https://github.com/sankaAkash/newsbox-android",
+     "code": "https://github.com/sankaAkash/newsbox-android"
+    }
+  },
+  {
+    "name": "Weatherly Android",
+    "desc": "Native android app built using Java, XML and Volley dependencies. Provides weather forecast.",
+    "image": "weatherlyandroid",
+    "category": "android",
+    "links": {
+      "view": "https://github.com/sankaAkash/newsbox-android",
+      "code": "https://github.com/sankaakash/weatherly-android"
+    }
+  },
+  {
+    "name": "Instagram MERN",
+    "desc": "Full-Stack Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
+    "image": "instagrammern",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/sankaAkash/newsbox-android",
+      "code": "https://github.com/sankaAkash/instagram-mern"
+    }
+  },
+  {
+    "name": "Flipkart MERN",
+    "desc": "Full-Stack Flipkart with Admin Dashboard and Paytm Payment Gateway. MERN Stack WebApp, ready to use for business.",
+    "image": "flipkartmern",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/sankaAkash/newsbox-android",
+     
+      "code": "https://github.com/SANKAAKASH/flipkart-mern-master"
+    }
+  }, 
+  {
+    "name": "Flipkart PHP",
+    "desc": "Full-Stack Flipkart Clone Using LAMP Stack. With all major features and OTP authentication and Cashfree payment gateway.",
+    "image": "flipkartphp",
+    "category": "lamp",
+    "links": {
+      "view": "https://github.com/sankaAkash/newsbox-android",
+      
+      "code": "https://github.com/SANKAAKASH/flipkart-clone-PHP-main"
+    }
+  },
+  {
+    "name": "Webview App",
+    "desc": "It's an android app which uses web view component for displaying content. This app provides many different features.",
+    "image": "webviewapp",
+    "category": "android",
+    "links": {
+      "view": "https://github.com/sankaAkash/newsbox-android",
+      
+      "code": "https://github.com/sankaakash/Android-Webview"
+    }
+  },
+  {
+    "name": "PHP Banking Website",
+    "desc": "Basic Banking System based on PHP and MySQL database. Made with HTML, CSS, JavaScript and backend with PHP.",
+    "image": "tsfbank",
+    "category": "lamp",
+    "links": {
+      "view":"https://github.com/SANKAAKASH/TSF-Bank-main",
+      "code": "https://github.com/SANKAAKASH/TSF-Bank-main"
+    }
+  },
+  
+  
+
+
+  {
+    "name": "Basic Banking App",
+    "desc": "It's an android app which uses SQLite to store user accounts data. It provides feature to simply transact amount.",
+    "image": "basicbank",
+    "category": "android",
+    "links": {
+      "view": "https://github.com/sankaAkash/newsbox-android",
+      "code": "https://github.com/sankaakash/Basic_Banking_App"
+    }
+  },
+  
+
+  {
+    "name": "ecccomerce webiste",
+    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
+    "image": "responsive",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/sankaAkash/newsbox-android",
+      "code": "https://github.com/SANKAAKASH/Ecommerce-Website-Developmen"
+    }
+  }
+  
+]
